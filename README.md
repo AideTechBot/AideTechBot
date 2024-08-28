@@ -1,9 +1,9 @@
-i love to work on software for my hobbies. 
+i love to code for my hobbies. 
 
-code is a tool i use to explore:
+computers are tools i use to explore:
 - astronomy
 - physics
 - web development
 - video games
 
-i also do software professionally as well.
+i also do software engineering professionally.
